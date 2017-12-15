@@ -1,5 +1,7 @@
 # Adapted from https://stackoverflow.com/questions/43750044/google-news-crawler-to-return-results-with-url-title-and-briefing
 
+# NOTE: Probably shouldn't scrape google... automated requests are against their terms of service.
+
 import time
 import datetime
 import requests
@@ -23,6 +25,6 @@ def print_headlines(subject,
             proc_title = ((raw_title[2:])[:-1]).replace('<b>','').replace('</b>','')
             print(proc_title)
         curr_date += datetime.timedelta(days=1)
-        time.sleep(2)
+        time.sleep(5)
 
 print_headlines("bitcoin", 2017, 12, 12, 2017, 12, 14)
