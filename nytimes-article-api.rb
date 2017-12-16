@@ -10,6 +10,7 @@ def article_request(api_key, fq, begin_date, end_date, last_page)
   http.use_ssl = true
 
   for page in 0..last_page.to_i
+    puts page
     uri.query = URI.encode_www_form({
       "api-key" => api_key,
       "fq" => "headline: #{fq}",
@@ -24,7 +25,6 @@ def article_request(api_key, fq, begin_date, end_date, last_page)
       @result = JSON.parse(http.request(request).body)
       @result["response"]["docs"].each do |doc|
         headline = doc["pub_date"] + " " + doc["headline"]["main"]
-        headline.gsub(/T.*Z/,'')
         File.write("#{fq}-headlines.txt", headline + "\n", mode:'a')
       end
     rescue
