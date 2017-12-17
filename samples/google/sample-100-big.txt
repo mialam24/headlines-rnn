@@ -1,0 +1,953 @@
+ a TV Move                                  
+2010-05-20 Google and VMware Wed at the App Engine                                               
+2010-05-12 Google-AdMob Deal Gets Extended Federal Review                                                
+2009-05-21 Google Buffs Chrome                                                                                    
+2009-02-02 From Science: Google Earth Fills Its Watery Gaps                                                  
+2009-02-02 Google Ocean Arrives                                                                                    
+2009-02-02 From Science: Google Earth Fills Its Watery Gaps                                              
+2009-02-02 Google Executives Face Jail in Europe                                                          
+2010-11-05 Google Rebuts Antitrust Claims in Europe                                                  
+2016-11-05 A Gmail Rival Sent to Siberia by a Mysterious Google Glitch                                  
+2016-11-10 Parallels Between Europe’s Antitrust Cases Against Google and Microsoft                
+2016-11-11 Erasing the Past From Google Search                                                                         
+2016-11-15 Google and Facebook Take Aim at Fake News Sites                                                
+2016-11-24 Review: ‘Lion’ Brings Tears for a Lost Boy, Wiped Dry by Google                         
+2016-11-28 How Google Knows When Your Bills Are Due                                                       
+2016-12-06 Google Says It Will Run Entirely on Renewable Energy in 2017                               
+2016-12-09 Storing Web Pages, and Much More, in Google Keep                                              
+2016-12-26 Google Home Helps You Leave the House, Too                                                    
+2017-01-01 Google Helping Mobile Publishing? Some Publishers Are Not So Sure                          
+2017-01-07 Russia Requires Apple and Google to Remove LinkedIn From Local App Stores                  
+2017-01-08 Detroit Auto Show Reveals a Google-Designed Van That Could Steer the Industry            
+2017-01-12 Continuous Deployment to Google Cloud Platform with Drone                                       
+2017-01-20 Uber Hires Google’s Former Head of Search, Stoking a Rivalry                                   
+2017-01-23 Xiaomi, Chinese Phone Maker, Losing Its Global Face as Hugo Barra Exits                    
+2017-01-25 In Race Against Fake News, Google and Facebook Stroll to the Starting Line                  
+2017-01-26 Daily Report: Google and Facebook Wield Buckets in Fake News Flood                              
+2017-01-27 Google, in Post-Obama Era, Aggressively Woos Republicans                            12017-08-12 A Crisis Forces Google to Uphold Its Values While Fostering Debate                                     
+2012-04-16 The Breakfast Meeting: Google to Make Stuff, and Pelosi's 'Attack' on Colbert              
+2012-02-10 The Breakfast Meeting: Google to Make Stuff, and Pelosi's 'Attack' on Colbert             
+2012-02-10 The Breakfast Meeting: Google to Make Stuff, and Pelosi's 'Attack' on Colbert            
+2012-02-10 The Breakfast Meeting: Google to Make Stuff, and Pelosi's 'Attack' on Colbert            
+2012-02-10 The Breakfast Meeting: Google to Make Stuff, and Pelosi's 'Attack' on Colbert            
+2012-02-10 'Entertainment Device' Expected From Google                                               
+2012-02-10 'Entertainment Device' Expected From Google                                                
+2012-02-09 Google. It's a Good Thing.                                                                    
+2012-02-09 Google. It's a Good Thing.                                                               
+2012-02-10 Daily Report: An Entertainment Device From Google                                        
+2012-02-10 The Breakfast Meeting: Google to Make Stuff, and Pelosi's 'Attack' on Colbert              
+2012-02-10 The Breakfast Meeting: Google to Make Stuff, and Pelosi's 'Attack' on Colbert            
+2012-02-10 'Entertainment Device' Expected From Google                                            
+2012-02-10 'Entertainment Device' Expected From Google                                                
+2012-02-10 Vulnerability in Google Wallet Leaves Funds Wide Open                                                 
+2012-02-14 Google Deal for Motorola Mobility Gets Clearance                                             
+2012-02-14 Access to Google Sites Returns in Iran, as Mysteriously as It Disappeared                  
+2012-02-21 Drilling Down: How Businesses Use Google+                                                  
+2012-02-21 Google to Sell Heads-Up Display Glasses by Year's End                                             
+2012-02-23 Microsoft Files Complaint Against Motorola in Europe                                      
+2012-02-22 Apple, Google and Others in Agreement on App Privacy                                       
+2012-02-23 Considering Google Plus                                                                          
+2012-02-23 Behind the Google Goggles, Virtual Reality                                                     
+2012-10-29 Step Into TV and It Has No Google                                                          
+2006-03-03 Google TriesTo Reassure Wall Street                                                            
+2006-03-03 Post-Google, Hambrecht&#8217;s OpenIPO Gains Traction                                  
+2006-03-08 Google&#8217;s New Ticker Symbol: OOPS                                                            
+2006-03-09 Google to Settle Click Fraud Suit                                             
+2013-04-09 Q&A: Requesting Refunds From Google Play                                             
+2013-04-10 A Venture Capital Partnership for Google Glass Apps                                       
+2013-04-11 A Seasonal Pattern to Mental Health                                                        
+2013-04-11 Google Introduces a Tool for Planning for Your Digital Afterlife                     
+2013-04-15 Europeans Reach Deal With Google on Searches                                            
+2013-04-15 A Partnership For Google Glass                                                              
+2013-04-r1 Google Introduces a Tool for Planning for Your Digital Afterlife                       
+2013-04-15 Europeans Reach Deal With Google on Searches                                             
+2013-04-15 A Partnership For Google Glass                                                                 
+2013-04-15 Daily Report: European Regulators and Google Reach an Antitrust Deal                      
+2013-04-16 Mental Health: Seasonal Swings, via Google                                                       
+2013-04-16 Google Emulates Apple in Restricting Apps for Glass                                           
+2013-04-16 Today's Scuttlebot:  Twitter TV and New Google Stores                                    
+2013-04-17 Google, Emulating Apple, Restricts Apps for Glass                                               
+2013-04-19 Google, Soothing Investors, Plays Up Its Innovations                                     
+2013-04-18 Today's Scuttlebot: Kickstarter Jr. and Google in Utah                                           
+2013-04-19 Today's Scuttlebot: Weightless Water, and Google Meets Wikileaks                        
+2013-02-29 Google Plus Goins Apple More Policy                                                            
+2012-06-13 Daily Report: Google Employees Know Nothing                                                        
+2014-08-29 Inequality and Web Searches, Google Buys Ads                                                
+2016-08-12 Google Fined for Breaking Russian Antitrust Rules With Android                                
+2016-09-15 Japan Government Advisory Panel Says Apple, Google Hinder App Competition                      
+2016-09-19 Exclusive-Google May Face Over $400 Million Indonesia Tax Bill for 2015: Government Offic
+2016-09-20 Exclusive-Google May Face Over $400 Million Indonesia Tax Bill for 2015: Government Offic
+2016-09-20 Google Gets More Time to Counter EU Antitrust Charge on Android                               
+2016-09-21 Taiwan Asks Google to Blur Images Showing New South China Sea Facilities                   
+2016-09-24 For Taiwan, Google Images of Disputed Island Are Too Clear                                  
+2016-09-27 Google Launches Service to Take Internet to India Malls, Cafes                             
+2016-09-27 Google France Boss Says Looking for Insurance Partners                                       
+2016-09-29 A Hires Betway for Google                                                         
+2010-07-09 Chatting With Google: China, Apple and More                                                       
+2010-07-09 Chatting With Google: China, Apple and More                                                  
+2010-07-09 Chatting With Google: China, Apple and More                                                 
+2010-07-09 Chatting With Google: China, Apple and More                                                     
+2010-07-09 Chatting With Google: China, Apple and More                                                         
+2010-07-09 Chatting With Google: China, Apple and More                                                        
+2010-07-09 Chatting With Google: China, Apple and More                                                  
+2010-07-09 Sun Valley: Waiting for (and Finding) Google                                                  
+2010-07-09 TimesCast: China Renews Google's License                                                        
+2010-07-12 Despite Privacy Inquiries, Germans Flock to Google, Facebook and Apple                      
+2010-07-12 Regulators to Parse Google-ITA Deal                                                           
+2010-07-12 China Renews Google&#8217;s License                                                   
+2010-07-21 Will Google Shell Out $1 Billion for ITA Software?                                                            
+2010-08-11 Police in South Korea Raid Google’s Office                                                                  
+2010-02-09 Google Gets More Social With Buzz                                                           
+2010-02-09 Google Offers Phone Help for Nexus One Owners                                                       
+2006-09-10 Test of Google Maps for Bicking                                      
+2008-10-31 Google-Yahoo Ad Deal Remains in Limbo                                                             
+2008-11-04 Airwaves Battle Pits Dolly Parton Against Google                                                 
+2006-11-03 Google Heils Republicans                                                  
+2008-01-07 Google Map Bites Founder                                                                          
+2007-06-13 Google to Reduce History of Personal Searches                                             
+2007-06-14 Google Gives Up on Competing With eBay’s Big Boston Party                                   
+2007-06-19 Google and Utility to Test Hybrids That Sell Back Power                                 
+2007-01-30 Google and China                                                                 
+2010-01-14 Google Move Gives Hope to Lawmakers                                                           
+2010-01-15 For Google, a Threat to China With Little Revenue at Stake                                    
+2010-01-15 France, Grudgingly, Imagines Google as a Partner on Digital Media Phones                     
+2010-01-16 Christmas Say Google Is Closed to Wireless Use                                             
+2012-06-27 TimesCast Tech: Google Developers' Conference                                      
+2010-05-18 Google Buys Norwegian Audio-Video Provider                                                  g2010-05-18 Google Buys Norwegian Audio-Video Provider                                             
+2010-05-19 Germany Asks Google to Surrender Private Data                                      
+2009-11-19 Google Says It Doesn't Want to Be a Utility                                                      
+2009-08-28 Google Adds to the Traffic-App Pileup                                                   
+2009-08-28 Google Adds to the Traffic-App Pileup                                                      
+2009-08-27 Google Adds to the Traffic-App Pileup                                                   v2008-08-07 Forge and Google                                                               
+2008-06-10 YouTube Co-Founder Switches to Google                                                  
+2009-07-01 Google Drops News Comment Feature                                                    
+2009-07-03 U.S. Inquiry                                                                                        
+Is Confirmed                                            
+2009-05-23 Have You Seen the Google Maps Car?                                                             
+2009-05-28 Using Art in Google Docs                                                                   
+2009-05-28 Google Showcases New Communication and Collaboration Tool                                   
+2009-05-28 Bloodied by Google, Microsoft Tries Again on Search                                            
+2009-06-01 Preparing to Sell E-Books, Google Takes on Amazon                                       
+2009-06-01 Google Combines Chat and E-Mail                                                             
+2009-06-01 Q&A: Exporting Art in Google Docs                                                                 
+2009-06-02 Google Is Top Tracker of Surfers in Study                                                         
+2009-06-04 Google 'Swine Flu' and Find the Health Dept.                                               
+2009-06-04 Google &#8216;Swine Flu&#8217; and Find the Health Dept.                              
+2009-08-03 Google Chief Resigns From Apple's Board                                                  
+2009-08-31 A Hired Gun for Microsoft, in Pursuit of Google                                             
+2009-08-31 Challenging Microsoft With a New Technology                                                    
+2009-08-31 Mortgage Quote by Google?                                                                          
+2010-08-04 Google to Buy Levchin's Slide                                                                    
+2010-08-04 Google Acquires Slide, Maker of Social Apps                                              
+2009-04-04 Google’s Plan for Out-of-Print Books Is Challenged                                       
+2009-04-04 It’s Not Just Microsoft Balking at Google’s Book Plans                                   
+2009-04-06 Google and Music Labels Bet on Downloads in China                                               
+2009-04-06 T-Mobile to Use Google Software in Devices for Home                                                    
+2010-02-01 Google Planning Store for Business Apps                                             0          
+2010-02-02 In Europe, Challenges for Google                                                                 
+2010-02-01 Google Puts New Focus on Online Research                                                         
+2013-03-21 Google Broadens a Campaign                                                                     
+2012-03-19 Google Broadens a Campaign                                                                     
+2013-05-29 Europe Warns Google It Could Face Further Concessions                                                         
+2010-05-04 Google Puts Millions in Wind Farms                                                               
+2010-05-05 Google Gives Its Search Results a Facelift                                                     
+2010-05-05 Google&#8217;s Energy Foray: What&#8217;s Up?                                                       
+2011-08-25 Taking Action On Google+                                                             
+2011-08-25 Google to Pay $500 Million to Settle Illegal Ad Charges                                 
+2011-08-26 In France, Publisher and Google Reach Deal                                      
+2011-08-26 Google to Shut Slide Apps as Slide Founder Departs                                          
+2011-08-31 In Latest Breach, Hackers Impersonate Google to Snoop on Users in Iran                  
+2011-09-06 Closed, Says Google, but Shops’ Signs Say Open                                         
+2011-09-06 Has Google Reported That Your Business Is Closed?                                            
+2011-09-06 Has Google Reported That Your Business Is Closed?                                            
+2011-09-08 Google Details, and Defends, Its Use of Electricity                                    
+2011-09-06 Has Google Reported That Your Business Is Closed?                                           
+2011-09-06 Has Google Reported That Your Business Is Closed?                                          
+2011-09-08 Google Details, and Defends, Its Use of Electricity                                     
+2011-09-09 Google Breaks Silence on Energy Use                                                      
+2011-09-09 Google Breaks Silence on Energy Use                                                     
+2011-09-09 Google Breaks Silence on Energy Use                                                           
+2011-09-10 Google Warns Users in Iran About Security Issue                                          
+2011-09-12 Inside a Google Invasion                                                                  
+2011-09-14 Google Lets Wi-Fi Owners Opt Out of Registry                                               
+2011-09-13 How Google-Motorola Deal Came Together                                                
+2011-09-13 How Google-Motorola Deal Came Together                                                        
+2011-09-14 Google Flight Search vs. Kayak                                                              
+2011-09-14 Google Flight Search vs. Kayak                                                            
+2011-09-14 Google Flight Search vs. Kayak                                                                  
+2011-09-14 Google Flight Search vs. Kayak                                                         
+2011-09-14 Google Flight Search vs. Kayak                                                            
+2011-09-19 Google Wallet Makes its Debut                                                                    
+2011-09-19 Google Wallet Makes its Debut                                                                    
+2011-09-19 Google Wallet Makes its Debut                                                                
+2011-09-20 Google+ Opens Up to All Comers                                                                 
+2011-09-20 Google+ Opens Up to All Comers                                                               
+2011-09-20 Google+ for Everyone: What You Need to Know                                                    
+2011-09-20 Google+ for Everyone: What You Need to Know                                                   
+2011-09-20 Google+ for Everyone: What You Need to Know                                                     
+2011-09-20 Google+ for Everyone: What You Need to Know                                                      
+2011-09-20 Google+ for Everyone: What You Need to Know                                                      
+2011-09-20 Google+ for Everyone: What You Need to Know                                                        
+2011-09-20 Google+ for Everyone: What You Need to Know                                                       
+2011-09-20 Google Says It Plays Fair                                                                      
+2011-09-21 Google Opens Its Exclusive Google+ Social Network to the Public                            
+2011-09-22 Google Wallet                                                                                  
+2011-09-22 Friday: Factor Affecting Google Search Results                                            
+2011-09-20 Google+ Opens Up to All Comers                                                                
+2010-01-14 Google in China                                                                   
+2010-01-14 Google Takes a Stand                                                                           
+2010-01-15 France, Grudgingly, Imagines Google as a Partner on Digital Media Projects                 
+2010-01-14 Google vs. China                                                                            
+2010-01-14 Google Move Gives Hope to Lawmakers                                                            
+2010-01-15 For Google, a Threat to China With Little Revenue at Stake                                 
+2010-01-15 France, Grudgingly, Imagines Google as a Partner on Digital Media Projects                
+2010-01-16 Google and China                                                                       
+2010-01-15 Can Google Beat China?                                                             
+2010-01-16 China, Where U.S. Internet Companies Often Fail                                    
+2010-07-19 Google Buys Metaweb to Improve Search Results                                                  
+2010-07-20 Google Updates Its Image Search                                                                   
+2010-07-22 Google Ventures Finances a Search Marketing Start-Up                                                
+2010-08-04 Google Kills Wave, Its Collaboration Tool                                                                
+2010-08-05 Google Will Sell Brand Names as Keywords in Europe                                            
+2010-08-04 Google to Buy Levchin&#8217;s Slide                                                      
+2010-08-05 Google and Verizon Near Deal on Web Pay Tiers                                                     
+2008-06-24 At Google, Slow Growth in News Site                                                            
+2009-11-24 Google Buys Display-Ad Startpy ny Forea                                                     
+2009-12-19 Google Said to Be Near a Yelp Deal                                                               
+2009-12-18 Google Renews Talks to Buy Yelp                                                            
+2010-04-01 F.T.C. Is Said to Have Looked Into Amazon-Google Ties                                       
+2010-04-01 F.T.C. Said to Look Into Amazon-Google Ties                                                     
+2010-04-05 ‘Suicide’ Query Prompts Google to Offer Hotline                                                
+2014-07-18 Europe Wants Apple and Google to Fix In-App Payments Problem                                    
+2014-07-14 Google Earnings Disappoint Investors                                                                            
+2009-10-05 Google Loses to LinkedIn in Silicon Valley Headquarters Pitch                             
+2015-05-08 Google, Dominant in Search, Tries Disruptor Role in Wireless and Broadband              
+2015-05-08 How to Use Siri, Google Now and Cortana Voice Commands                                       
+2015-05-13 Uber Lures Top Google Executive and Shifts David Plouffe&#8217;s Duties                   
+2015-05-15 Google Self-Driving Car Tests Set for Summer                                                        
+2015-09-15 Russian Authorities Rule Google Broke Antitrust Regulations                              
+2015-09-15 Google Hires Leader for Self-Driving Car                                            
+2015-08-29 European Publishers Play Lobbying Role Against Google                                                      
+2010-06-10 Does Google Buys Metaweb to Improve Search Results                                         
+2009-08-25 Swiss Official Demands Shutdown of Google Street View                                            
+2012-09-05 Motorola Introduces First Phones of Its New Google Era                               
+2012-09-05 Today's Scuttlebot: New Raspberry Pi and Revamping Google                               
+2012-09-06 Google Hangouts With Voters                                                           
+2012-09-10 Google Struggles to Unseat Amazon as the Web’s Most Popular Mall                         
+2012-09-09 DVF Gives Google Glasses a Spin on the Runway                                                
+2010-01-28 Despite Changes, Many Still Oppose Google Books Deal                                          
+2010-01-29 Google vs. China: Considering Threats to Internet Freedom                                         
+2010-01-29 Google vs. China: Considering Threats to Internet Freedom                                        
+2009-04-10 U.S. Presses Antitrust Inquiry Over Google Books                                                  
+2009-06-11 Rajeev Motwani, Guide in the Creation of Google, Dies at 47                                  
+2009-06-14 Hey, Just a Minute Who Google Books Deal                                                
+2009-08-31 A Hired Gun for Microsoft, in Pursuit of Google                                        H   
+2009-08-31 Challenging Microsoft With a New Technology                                                  
+2009-08-31 Mortgage Quote by Google?                                                             
+2009-09-01 Sony Defaults to Google Chrome                                                         
+2009 09-02 Google and Amazon Increasingly at Odds Over E-Books                                        
+2009-09-03 Authors Guild Accuses Amazon of Hypocrisy in Google Filing                                 
+2009-09-03 Authors Guild Accuses Amazon of Hypocrisy in Google Filing                                
+2009-09-03 Authors Guild Accuses Amazon of Hypocrisy in Google Filing                            
+2009-09-03 Authors Guild Accuses Amazon of Hypocrisy in Google Filing                                
+2009-09-03 Google Loses Top China Executive                                                            
+2009-09-05 Chief of Google in China Leaving                                                          
+2009-09-04 Google Loses Top China Executive                                                      
+2009-09-05 Chief of Google in China Leaving                                                           
+2009-09-04 Google Loses Top China Executive                                                                 
+2009-09-05 Chief of Google in China Leaving                                                             
+2009-09-04 Google Shines a Deeper Spotlight on News                                               
+2009-09-04 Harold Bloom v. Google                                                                          
+2009-09-08 Leaving Google, Executive to Back Chinese Start-Ups                                     
+2011-07-04 Google Cales for Now                                                                   
+2010-02-14 Anger Leads to Apology From Google About Buzz                                                 
+2010-11-17 Google TV, Usability Not Included                                                     
+2015-04-27 Fashion Is Trending, in Google Searches                                                    
+2010-05-17 YouTube: Google&#8217;s Smartest Buy?                                                  
+2010-05-17 Media Equation: Taylor Momsen, Google Bait                                                  
+2010-05-18 Google Buys Norwegian Audio-Video Provider                                                        
+2010-05-19 Germany Asks Google to Surrender Private Data                                          
+2010-05-19 One Moos and One Hums, but They Could Help Power Google                                   
+2010-05-19 Google to First Slow Google Software in Developers Conference                               
+2011-06-30 What Google+ Is All About                                                                    
+2011-07-01 The Google Inquiry Evokes Microsoft Memories                                          
+2011-07-01 Apple and Microsoft Beat Google for Nortel Patents                                               
+2011-02-15 Antitrust Investigation of Google Digs Deep                                                
+2011-02-16 Google Praises Executive’s Role in Egypt Revolt                                                    
+2013-07-24 Google Debuts an Updated Nexus 7 Tablet                                                        
+2013-07-26 Today's Scuttlebot: Sizing Up Google                                                                 
+2013-07-24 Google Debuts an Updated Nexus 7 Tablet                                                         
+2013-07-26 Today's Scuttlebot: Sizing Up Google                                                        
+2013-07-29 Two Ad Giants Chasing Google in Merger Deal                                               
+2013-07-31 Is Google More Like Microsoft or Apple?                                             
+2011-02-01 Google to Microsoft: Search 'Gotcha'                                                              
+2011-02-02 How Much Does Bing Borrow From Google?                                                        
+2011-02-10 Google Self-Driving Car Unit Accuses Uber of Using Stolen Technology                          
+2017-03-06 Turkey to Investigate Antitrust Complaint Against Google                                 
+2017-03-06 Questions About Mac Security and Google Password Prompts                                
+2017-03-07 Unhappy With Photo, New Hampshire Town Wins Battle With Google                               
+2017-03-07 Unhappy With Photo, New Hampshire Town Wins Battle With Google                      
+2017-08-09 Google, North Korea, Paul Manafort: Your Thursday Briefing                                        
+2017-08-08 North Korea, Google, Jacob Zuma: Your Wednesday Briefing                                   
+2017-08-08 Contentious Memo Strikes Nerve Inside Google and Out                                                      
+2009-11-16 Doing the Math on News Corp.'s Threatened Google Block                                              
+2010-09-28 Google Predicts More Social, and Profitable, Display Ads                                     
+2010-09-28 Media Decoder: Google Predicts More Social Display Ads                                      
+2010-09-29 McClure to Google: Buy Twitter                                                                
+2010-09-29 Tech Talk: Google and Its Rivals                                                       
+2010-10-05 Google TV Announces Its Programming Partners, but the Top Networks Are Absent              
+2010-10-05 Google Goggles Now Available for the iPhone                                                      
+2010-11-16 Google Has Until October 31 109 Mobile Deal                                                
+2006-10-10 Is Google Setting Itself Up for Copyright Trouble?                                              
+2009-08-11 Google Gulag                                                                                                  
+2009-09-05 Chief of Google in China Leaving                                                            
+2009-09-04 Google Shines a Deeper Spotlight on News                                                      
+2009-09-04 Harold Bloom v. Google                                                                        
+2009-09-08 Leaving Google, Executive to Back Chinese Start Ups                                                 
+2009-08-10 Google Voice, Now Playing in Your In-Box                                                                
+2009-09-10 Google Now in XXL                                                                            
+2009-09-11 Copyright Office Assails Google’s Settlement on Digital Books                            
+2009-09-14 Where Google Is Really Big: India and Brazil                                             
+2009-09-15 Google Releases News-Reading Service                                                        
+2009-09-16 Google Buys Service That Uses Humans to Digitize Books                                       
+2009-09-17 Google Acquires Carnegie Mellon's Anti-Fraud Tool                                     
+2009-08-17 U.C. Professors Seek Changes to Google Books Deal                                                     
+2009-08-31 A Hired Gun for Microsoft, in Pursuit of Google                                               
+2009-08-31 Challenging Microsoft With a New Technology                                                
+2009-08-31 Mortgage Quote by Google?                                                                            
+2009-09-01 Sony Defaults to Google Chrome                                                                  
+2009-09-02 Google and Amazon Increasingly at Odds Over E-Books                                             
+2009-09-03 Authors Guild Accuses Amazon of Hypocrisy in Google Filing                                        
+2009-09-03 Authors Guild Accuses Amazon of Hypocrisy in Google Filing                                     
+2009-09-03 Google Loses Top China Executive                                                               
+2009-09-05 Chief of Google in China Leaving                                                                   
+2009-09-04 Google Shines a Deeper Spotlight on News                                                             
+2009-09-04 Harold Bloom v. Google                                                                    
+2009-09-08 Leaving Google, Executive to Back Chinese Start-Ups                                        
+2006-09-09 Google to Digitize Newspaper Archives                                           
+2008-06-13 Advertisers Give Thumbs-Down to Google-Yahoo Deal                                                
+2008-10-03 Google and Yahoo Agree to Delay Ad Deal                                                      
+2008-10-04 Google and Yahoo Delay Ad Deal for Antitrust Review                                          
+2008-10-06 Google Deal With Yahoo Draws More Opposition                                              
+2008-10-08 Google Puts Tunes From YouTube a Click Away                                               
+2008-10-08 Google to Sell Ads for Web Games                                                      
+2008-10-09 Tip of the Week: Adding Weather Icons to Google Calendar                                   
+2008-10-15 Google and Yahoo: A Tale of Two Online Ad Markets                                              
+2008-10-16 The First Google Phone                                                                    
+2008-10-17 McCain's YouTube Ads Have Google Ads                                                          
+2008-10-17 Quick Bits: Fat Times for Google, Lean Ones for Credit Thieves                             
+2009-08-15 Google Goes After Microsoft Again                                                             
+2007-08-17 For Google, a Very Happy Anniversary                                                      
+2008-02-27 Google Goes After Another Microsoft Cash Cow                                            
+2008-09-13 Investors Rush to Buy Another $4.2 Billion in Google Stock                                  
+2005-10-08 For Google, Advertising and Phones Go Together                                                
+2010-07-19 Google Buys Metaweb to Improve Search Results                                                     
+2010-06-04 Google and Hearst Make Digital Acquisitions                                                    
+2010-06-04 Tip of the Week: A Google Delivery                                                       
+2010-06-07 Australia Opens a Privacy Case Against Google                                             
+2010-06-10 Does Google Have Bing Envy?                                                                     
+2010-06-10 Google Is No Help to These Modern Spies                                                     
+2010-06-11 Google News Gives News Organizations a Chance to Stand Out                                   
+2010-06-21 States Weigh Inquiry of Google                                                  
+2010-06-22 States to Investigate Google Data Collection                                                 
+2010-06-22 Google and Twitter Go to Bat for Theflyonthewall                                             
+2010-06-23 Motorola, Verizon and Google Unite to Introduce the Droid X                                  
+2010-06-24 Judge Sides With Google in Viacom Video Suit                                    
+2010-06-28 Europe Pushes Google to Turn Over Wi-Fi Data                                            
+2010-06-29 Google Will Stop Redirecting Chinese Searchers to Hong Kong                            
+2010-06-30 Google to Stop Redirecting China Users                                               
+2010-06-30 Stores See Google as Ally in E-Book Market                                           
+2010-06-30 Google Takes Step To Placate China                                                       
+2010-06-30 China Partially Blocking Google Searches                                              
+2007-08-30 A Google View of Elephants                                                                       
+2010-12-03 Japanese Regulator Approves a Search Partnership of Google and Yahoo                         
+2010-12-03 Google Signs Deal to Buy Manhattan Office Building                                           
+2010-12-03 Google and the Victorians: The History Goes Way Back                                        
+2010-12-04 Groupon Said to Pass On Rich Bid From Google                                                
+2010-12-07 Google Opens Doors to E-Bookstore                                                             
+2010-12-06 Google Unveils the Nexus S Smartphone                                                   
+2010-12-06 Google Maps for Android Gets New Features                                                      
+2010-12-07 Mastering Google AdWords                                                               
+2011-12-16 Metropolitan Museum Provides a Trove of Images for Google Goggles                               
+2011-12-16 Metropolitan Museum Provides a Trove of Images for Google Goggles                             
+2011-12-16 Friend Me, Follow Me or Google Me?                                                          
+2011-12-17 Met on Google Goggles                                                                   
+2011-12-20 U.S. Backs Apple and Google -                                                                               
+2009-06-20 Citing Pornography Concerns, ChinanDina as Google Case                                
+2015-02-25 A Google Computer Can Teach Itself Games                                                      
+2010-12-21 Google’s Next Deal                                                         
+2007-12-22 Microsoft&#8217;s Arguments Against Google-DoubleClick Deal                                     
+2007-07-13 Google v. Microsoft (again)                                                                  
+2007-07-19 Congress to Examine Google-DoubleClick Deal                                                
+2007-04-17 Yahoo Strikes Ad Deal With More Papers                                               
+2009-11-30 Google and News Corp. Do Need Each Other                                                            
+2007-04-18 A Deal With Google Ends With Some Bruised Feelings                                              
+2007-04-28 Google Offers Search Service On Finance                                                       
+2006-03-21 Brother of Google Co-Founder Uses Shell Company for Handheld Start-Up                   
+2006-03-22 Keeping Up With Google                                                                         
+2001-05-17 A Search Engine Goes Beyond Google                                                             
+2001-08-07 Technology Briefing | Internet: Google Names New Chief                                            
+2008-11-03 Google and Yahoo Revise Their Search Advertising Pact                                             
+2007-09-21 How the Google Does, but Not Charge at Facebook                                          
+2012-01-25 In Data Regulator, Google Starts a Company Starter                                              
+2011-05-07 Trying to Game Google on ‘Mother’s Day Flowers’                                       
+2011-05-09 Suit Opens a Window Into Google                                                                   
+2011-05-09 Start-Up From Google Voice Creator                                                             
+2010-05-06 Google Maps Is Fine for Finding Subways                                                   
+2010-05-06 A Google Tool to Translate a French Menu                                                                  
+2010-05-02 Google and Government Monitoring                                                 
+2010-04-01 Google Links Web Attacks to Vietnam Mine Dispute                                                
+2010-04-12 A Google Tablet Could Be Good News for Adobe                                                             
+2011-02-01 Google Takes Street View Into Art Museums                                                   
+2010-08-02 Boldly Going At Google                                                                                            
+2006-08-31 Google Buys Microsoft in a Revelual Strategy                                                          
+2009-03-13 Executive From Google to Replace Two at AOL                                                
+2009-03-15 Just Don’t Compare Kosmix to Google                                                      
+2009-03-16 Bottling the Magic Behind Google                                                           
+2009-09-18 Google Says Apple Flatly Rejected Voice App for iPhone                                          
+2009-09-19 Government Urges Changes to Google Books Deal                                           
+2009-08-31 A Hired Gun for Microsoft, in Pursuit of Google                                             
+2009-08-31 Challenging Microsoft With a New Technology                                                
+2009-08-31 Mortgage Quote by Google?                                                              
+2009-09-01 Sony Defaults to Google Chrome                                                       
+2008-01-18 Google Offers a Map for Its Philanthropy                                                    
+2008-01-23 Google and Ad Conglomerate Teaming Up                                                     
+2008-01-25 Hints That Europe Will Let Google Buy DoubleClick                                                
+2008-01-31 Google Earnings Fall Short of Expectations                                                                   
+2008-07-24 Glam Media Hires Ex-Google Executive                                                                   
+2009-09-05 Chief of Google in China Leaving                                               
+2009-04-04 Google’s Buses Help Its Workers Beat the Rush                                               
+2007-03-13 Viacom Sues Google Over YouTube Video Clips                                                                  
+2010-08-04 Google to Buy Levchin&#8217;s Slide                                                            
+2010-08-05 Google and Verizon Near Deal on Web Pay Tiers                                                   
+2007-08-29 Finance Chief of Google Plans His Retirement at 53                                            
+2007-09-01 Google Shift on Handling of News                                                           
+2007-09-01 Hey, Who’s He? With Gwyneth? The Google Guy                                                          
+2009-12-17 Chinese Writer Sues Google China                                                                 
+2009-12-17 Google Defends Itself in Italian Court                                                             
+2009-11-20 Google Offers Peek at Operating System, a Potential Challenge to Windows                          
+2014-08-29 Google reveals delivery drones                                                                    
+2014-08-29 Google tests drones for deliveries                                                      
+2014-08-29 Today in Small Business: 'Google Dorking'                                                    
+2014-08-29 Inequality and Web Search: Q. and A. With Google Researchers                                 
+2014-09-04 Google's F.T.C. Tab for Charges Rung Up by Children: $19 Million                             
+2014-09-05 Opposition Grows in Europe to Google Antitrust Proposal                                             
+2010-05-17 YouTube: Google&#8217;s Smartest Buy?                                                        
+2010-05-17 Media Equation: Taylor Momsen, Google Bait                                        
+2008-01-24 At Google, Slow Growth in News Site                                                            
+2009-12-14 With a New Phone, Google May Challenge Apple                                                 
+2009-12-15 App of the Week: Search What You See with Google Goggles                                
+2009-12-15 Is the Google Phone an Unauthorized Replicant?                                      
+2009-12-16 Google and Bing Keep Rising While Yahoo Drops Again                                                       
+2009-12-18 Google Loses in French Copyright Case                                                            
+2009-08-31 Challenging Microsoft With a New Technology                                                     
+2009-08-31 Mortgage Quote by Google?                                                             
+2009-09-01 Sony Defaults to Google Chrome                                                    
+2009-09-02 Google and Amazon Increasingly at Odds Over E-Books                                           
+2012-06-26 Daily Report: Google Brain Teaches Itself to Recognize — What Else? — Cats             
+2012-06-27 E.A. and Google Got Game                                                                                
+2010-11-20 Google Tries Again With Google TV                                                                    
+2011-11-08 Google Tries Again With Google TV                                                                     
+2012-02-10 The Breakfast Meeting: Google to Make Stuff, and Pelosi's 'Attack' on Colbert              
+2012-02-10 The Breakfast Meeting: Google to Make Stuff, and Pelosi's 'Attack' on Colbert            
+2012-02-10 'Entertainment Device' Expected From Google                                                       
+2012-02-10 'Entertainment Device' Expected From Google                                                
+2012-02-10 Vulnerability in Google Wallet Leaves Funds Wide Open                                 
+2012-02-10 Vulnerability in Google Wallet Leaves Funds Wide Open                                       
+2012-02-10 Google Wants to Join the Party, Not Crash It                                                   
+2012-10-15 The Future, as Imagined by Google                                                     
+2012-01-30 Does Google+ Offer Businesses an Edge?                                                 
+2011-02-08 Google Executive Who Was Jailed Said He Was Part of Facebook Campaign in Egypt            
+2011-02-10 How to Make Your Google Account More Secure                                                             
+2010-11-17 Google TV, Usability Not Included                                                  
+2014-01-21 Google Adds ‘Mobile Friendliness’ to Its Search Criteria                                 
+2015-04-23 Market Edges Higher on a Full Day of Earnings News                                            
+2015-04-23 Google Introduces Wireless Service Called Project Fi                               
+2015-04-27 The Latest Fashion, Trending on Google                                          
+2015-04-27 Daily Report: The Latest Fashion, Trending on Google                                    
+2015-04-28 Google and Facebook Help Nepal Earthquake Survivors and Contacts Connect                   
+2015-04-28 Europe&#8217;s Google Problem                                                                          
+2015-04-28 Google Reaches Out to European Publishers, With $165 Million in Hand                          
+2015-04-28 Google and Facebook Help Nepal Earthquake Survivors and Contacts Connect                 
+2015-04-28 Europe&#8217;s Google Problem                                                         
+2015-04-28 Google Reaches Out to European Publishers, With $165 Million in Hand                           
+2015-04-27 Daily Report: The Latest Fashion, Trending on Google                                           
+2015-04-28 Google and Facebook Help Nepal Earthquake Survivors and Contacts Connect                   
+2015-04-28 Europe&#8217;s Google Problem                                                          
+2009-04-04 Google’s Plan for Out-of-Print Books Is Challenged                                          
+2009-04-04 It’s Not Just Microsoft Balking at Google’s Book Plans                                    
+2009-04-06 Google and Music Labels Bet on Downloads in China                                               
+2009-04-06 T-Mobile to Use Google Software in Devices for Home                                                   
+2008-08-13 Google Now Allows You to Pick Your Friends in Reader                                           
+2008-08-15 T-Mobile to Offer First Phone With Google Software                                           
+2008-08-18 Serving 3 Brands More From Google                                                                 
+2012-11-08 Google Aces Can’t Defeat Bibliophiles                                                      
+2012-11-09 Google Is Blocked in China as Party Congress Begins                                        
+2012-11-12 Friday: Factor Affecting Google Search Results                                                 
+2011-09-22 Friday: Factor Affecting Google Search Results                                             
+2011-09-24 Google Doodle Honors Jim Henson and Friendly Monsters                                     
+2011-09-24 Google Doodle Honors Jim Henson and Friendly Monsters                                         
+2011-09-27 Google's Biggest Threat Is Google                                                         
+2011-09-29 All Aboard: Google Bus Seeks Start-Up Ideas                                               
+2011-01-21 At Google, a Boost From E-Commerce                                                                 
+2011-01-20 Google&#8217;s Management Shift: What Now for M.&#038;A.?                                        
+2011-01-22 Google Takes On Yelp With New Mobile App                                                          
+2011-01-14 Europe Inquiry Focuses on Google Business Practice                                              
+2011-01-21 At Google, a Boost From E-Commerce                                                                
+2011-01-20 Google&#8217;s Management Shift: What Now for M.&#038;A.?                                   
+2011-01-22 A Creator Prepares to Take the Reins at Google                                                     
+2011-01-20 Google&#8217;s Management Shift: What Now for M.&#038;A.?                                        
+2011-01-25 Google Gives $100 Million in Stock and Options to Schmidt                                        
+2011-01-24 Google and Mozilla Announce New Privacy Features                                              
+2011-01-26 Who Invests in Low-Income Housing? Google, for One                                                 
+2014-01-14 For Google, a Toehold Into Goods for a Home                                                             
+2016-06-30 Google Can Find A Facebook                                                                           
+2006-04-03 Google Pockets $2 Billion in Stock Sale                                                                              
+2006-04-03 Google Earth May Get Support in Patent Suit                                                
+2006-04-05 Google Real Estate: You Can Exhale                                                          
+2006-04-06 Google Bid to Provide San Francisco WiFi Clears Hurdle                                      
+2006-04-06 Google Page Creator Backlash                                                               
+2006-04-07 Top                                                                                          
+2006-04-09 This Boring Headline Is Written for Google                                                    
+2006-04-09 Connecting to Nature (and Not by Google)                                                     
+2006-04-12 World Business Briefing | Europe: Russia: Google to Open Research Office in Moscow       
+2006-04-12 Google and EarthLink Look for Next City to Unwire                                                 
+2006-04-13 Google Chief Rejects Putting Pressure on China                                                  
+2006-04-17 As Google Looks to China, Some See 51Job As Target                                                
+2006-04-21 Profit Soars; Google Stock Tags Along                                                         
+2006-04-23 Google's China Problem (and China's Google Problem)                                        
+2006-04-25 On Wall Street, What's Good for The Google Is Not Good for The Times                           
+2006-04-28 Is Google Targeting Chinese Portal Sina?                                                   
+2006-04-30 GOOGLE DREAMS                                                                                              
+2006-05-02 Microsoft and Google Set to Wage Arms Race                                                     
+2006-05-05 Microsoft and Google Square Off                                                         
+2006-05-07 Google's China Problem (And China's Google Problem)                                       
+2006-05-07 Letters                                       
+2009-04-01 A Google Killer, Killed                                                                                                     
+2009-04-04 Trademark Lawsuit Over Google Ads Can Proceed                                           
+2010-02-02 Europe Looms as Major Battleground for Google                                                
+2010-02-02 Google Extends Research Financing                                                       
+2013-01-30 A New Target for Google Maps: The Streets of North Korea                                    
+2013-01-29 Go Ahead: Google "Shooting"                                                                                 
+2016-08-05 Google Executive Quits Self-Driving Car Project                                                              
+2011-11-02 Tech Talk Podcast: Google TV Redux                                                            
+2011-11-02 Tech Talk Podcast: Google TV Redux                                                                    
+2011-11-02 Tech Talk Podcast: Google TV Redux                                                                   
+2010-11-18 Google Fashion Shopping Site Makes Debut                                             
+2010-10-28 A Reassured F.T.C. Ends Google Street View Inquiry                                           
+2010-11-09 Google Updates Privacy Policy to Cover Wider Data Use                                      
+2012-01-24 Google to Update Privacy Policy to Cover Wider Data Use                                         
+2012-01-24 Google to Update Privacy Policy to Cover Wider Data Use                                          
+2012-01-24 Google to Update Privacy Policy to Cover Wider Data Use                                          
+2012-01-24 Google to Update Privacy Policy to Cover Wider Data Use                                         
+2012-01-25 A New Policy On Privacy From Google                                                                       
+2012-03-14 Is Google Plus's Problem One of Design?                                                        
+2012-03-14 Today's Scuttlebot: Faces Machines See, and Langger Much                                      
+2010-11-29 Google Grows, and Works to Retain Nimble Minds                                                 
+2010-11-29 Google Earth Pushes Boundaries Between Real and Virtual                                   
+2010-11-30 Google Is Said to Be Close to Buying Groupon, a Site for Daily Deals                     
+2010-11-30 Google Is Said to Be Poised to Buy Groupon                                                   
+2010-11-30 Europe Opens Antitrust Inquiry Into Google                                                            
+2011-10-27 For Google, a New High in Deal-Making                                                            
+2011-10-27 For Google, a New High in Deal-Making                                                             
+2011-10-28 Google Tries Again With Google TV                                                                        
+2011-11-09 Cain Camp Turns Google Searches to Its Benefit                                      
+2011-08-15 Google Looks for Vertical Integration                                    
+2015-08-30 Mishka Henner Uses Google Earth as Muse                                                                 
+2010-02-02 Europe Looms as Major Battleground for Google                                                     
+2010-02-02 Google Extends Research Financing                                                   
+2010-10-27 F.T.C. Drops Google Inquiry on Street View Data                                                
+2010-08-26 Google Gives Real-Time Search Its Own Page                                                  
+2010-08-27 Google Acquires Angstro, a Social Networking Start-Up                                         
+2010-08-30 Software War Pits Oracle vs. Google                                                             
+2010-08-30 Real-Time Search Comes to Google                                                                 
+2010-08-30 Google Acquires Angstro, a Social Networking Aid                                            
+2010-08-30 The Google Deal Machine                                                                                
+2010-08-30 A Video Show From Google Highlights Hot Topics                                              
+2010-08-30 The Google Deal Machine                                                                                   
+2010-08-30 A Video Show From Google Highlights Hot Topics                                                 
+2010-08-30 The Google Deal Machine                                                                                 
+2009-06-04 This Chinese Deliveryman Works at Google                                                   
+2008-06-04 This Chinese Deliveryman Works at Google                                                 
+2008-06-04 Google Plans Major Expansion in Its Backyard                                             
+2008-06-09 Take That, Google: No Ads From Apple                                                          
+2008-04-09 The Open Way Yahoo Could Do a Search Deal With Google                                       
+2008-04-10 Devoting Their Lives to Google                                                                         
+2008-04-10 Google Taps Quattrone to Advise on Yahoo                                                    
+2009-09-04 Chief of Google in China Leaving                                                               
+2009-09-04 Google Loses Top China Executive                                                                   
+2009-09-05 Chief of Google in China Leaving                                                     
+2009-09-04 Google Shines a Deeper Spotlight on News                                                                 
+2007-09-24 Microsoft Said to Wage Behind-the-Scenes War on Google Deal                                     
+2007-09-24 Google&#8217;s New Highs                                                                       
+2007-09-26 What&#8217;s in Google&#8217;s Name?                                                               
+2009-09-22 Google in Shift on ‘Abortion’ as Keyword                                                  
+2008-09-23 With Google Phone, HTC Comeser Than Would Its Free                                          
+2006-03-14 Another Round Today in Google vs. Justice Department                                   
+2009-04-04 Google’s Plan for Out-of-Print Books Is Challenged                                        
+2009-03-12 Google Co-Founder Backs Vast Parkinson’s Study                                          
+2009-03-15 Just Don’t Compare Kosmix to Google                                                      
+2009-03-10 Google and Cisco Eyed as Possible Dow Candidates                                             
+2009-03-01 Photo Negative                                                                 
+2009-03-01 Putting a Bolder Face on Google                                                                   
+2009-03-04 A Google Search of a Distinctly Retro Kind                                                      
+2009-03-06 Googlers Rooting for Google Stock to Drop                                                        
+2009-03-09 Googlers Rooting for Google Stock to Drop                                                        
+2009-03-09 Google Program Enlists Mini-Sites as Selling Tool for Advertisers                          
+2007-09-21 Has Google Plans to Lay a Pacific Tax for Samsung                                        
+2013-07-19 Google Results Show Struggle With Mobile                                                                    
+2007-05-11 Google Draws a Line With Thailand                                                 
+2006-01-14 Google Effort Ures New York                                                           
+2009-0.-081 Google Buys Web Video Software Firm                                                                    
+2009-04-08 Google Executive Leaves for Venture Capital Firm Accel                                                  
+2009-04-08 Google Executive Leaves for the Venture Capital Firm Accel                                      
+2009-04-08 Google Executive Leaves for the Venture Capital Firm Accel                              
+2009-04-08 Is Yahoo a Better Friend to Newspapers Than Google?                                        
+2009-04-11 As Google Makes Clear, Things Have Settled Down a Bit for Brad Grey at Paramount         
+2009-04-12 Tech Recruiting Clashes With Immigration Rules                                            
+2009-04-13 Google’s ‘Immigration Fixer’                                                                        
+2009-05-14 A Google Team Effort Takes A Phone to the Next Level                                          
+2009-05-14 Google Confirms Problems With Reaching Its Services                                           
+2009-05-15 Companies Object to Google Policy on Trademarks                                          
+2009-06-09 Google Bits Experiment on Digital Books                                                              
+2009-08-04 Has Google Found a Stairway to Heaven in Brooklyn?                                          
+2009-08-05 Is Google Killing General Knowledge?                                                 
+2009-08-05 Google Buffs Up Chrome                                                                                  
+2010-07-01 Google Takes Flight With $700 Million ITA Deal                                                   
+2010-07-02 Google vs. China, the Sequel                                                             
+2010-07-07 Google Makes the iPhone YouTube App Obsolete                                                
+2010-07-08 Chatting With Google: China, Apple and More                                                   
+2010-07-09 Chatting With Google: China Testifies                                    
+2014-08-04 Google Gives Child Pornography Email Evidence to Police                                               
+2009-08-31 Challenging Microsoft With a New Technology                                                    
+2009-08-31 Mortgage Quote by Google?                                                               
+2009-09-01 Sony Defaults to Google Chrome                                                               
+2009-09-02 Google and Amazon Increasingly at Odds Over E-Books                                            
+2009-08-31 Challenging Microsoft With a New Technology                                         
+2009-08-31 Mortgage Quote by Google?                                                     
+2009-04-07 Google Introduces a Phone With PC Features                                                 
+2008-09-23 David Pogue's First Look at the Google Phone                                             
+2008-09-23 'Radical Openness' on the Google Phone - at Least for Now                                 
+2008-09-02 Microsoft Faces New Browser Foe in Google                                                    
+2008-09-04 Google at Age 10                                                                         
+2008-09-05 Do AndroidGuys Dream of Google Phones?                                                       
+2008-06-27 Google Plays With Your Living Room TV                                                            
+2008-06-30 Google and Creator of ‘Family Guy’ Strike a Deal                                                           
+2008-03-05 Facebook Hires a Google Executive as No. 2                                                 
+2008-03-05 Facebook Hires a Google Executive as No. 2                                                   
+2008-03-05 Facebook Hires a Google Executive as No. 2                                                
+2008-03-06 Will Europe Let Google Out of the Penalty Box?                                                  
+2010-07-12 Despite Privacy Inquiries, Germans Flock to Google, Facebook and Apple                     
+2010-07-12 Regulators to Parse Google-ITA Deal                                                              
+2010-07-12 China Renews Google&#8217;s License                                                            
+2010-07-15 The Google Algorithm                                                                      
+2010-07-16 Google Expected to Face Antitrust Case Is Agout                                              
+2014-10-08 Google Applies to Become Power Marketer                                                 
+2010-01-08 The Google Nexus One Phone                                                                     
+2010-01-12 Google Apologizes to Chinese Authors                                                    
+2010-01-12 Google Lets Users Store More Social                                               
+2010-04-10 E Still Stake in Google Case Is Identified                                     
+2012-09-17 Google Buys Nik to Lure Photographers to Google Plus                                                   
+2012-09-25 A Better Government, One Tweak at a Time                                    
+2009-08-18 Google, the Search That Satisfies                                                         
+2009-08-19 Lawyer and Author Adds His Objections to Settling the Google Book Lawsuit                   
+2009-08-19 Lawyer-Author Adds Objections to Settling With Google                                           
+2009-08-21 Google Rivals Will Oppose Book Settlement                                                     
+2009-08-22 Apple Denies It Rejected Google Application for iPhone                                   
+2009-08-23 Where Yahoo Leaves Google in the Dust                                                              
+2009-12-21 What Google Knows About New York                                                          
+2009-12-14 Google Faces Granker Reach Health Cnust Over Way to Site Own gu0                            
+2012-06-27 Google Tries Something Retro: Made in the U.S.A.                                            
+2012-06-27 TimesCast Tech: Google Developers' Conference                                       
+2013-05-17 At Google Conference, Cameras Even in the Bathroom                                            
+2013-05-17 Eric Schmidt of Google to Meet With British Prime Minister                                    
+2013-05-23 Tax Protest in Britain Focuses on Google                                                       
+2010-04-01 Google Links Web Attacks to Vietnam Mine Dispute                                               
+2010-04-01 France: More Publishers Sue Google                                                             
+2010-04-01 China, Concubines and Google                                                                                       
+200--7-09 The Motorola Glass to Be Your Wi-Fi Google Owe Beying                                              
+2008-04-17 Google Profit Beats Wall St. Forecast                                                       
+2008-04-17 Google: No Recessionary Problems Here                                                       
+2008-04-17 Google Likes Yahoo, but Wants to Steal Its Business                                    
+2008-02-07 A Cordles Chat Update Google                                                          
+2009-10-07 Google and the Energy Detective Join Forces                                           
+2009-10-07 Judge Sets Nov. 9 Deadline For Revised Google Book Settlement                              
+2009-10-07 Deadline Set for Google Book Deal                                                                          
+2009-09-08 Leaving Google, Executive to Back Chinese Start-Ups                                     
+2010-01-26 Searching by Advertising Google                                                                                      
+2009-09-01 Google Settles Trademark Suit                                                                    
+2007-09-04 Google Versus the V.C.'s                                                                
+2007-09-16 Google Said to Be Close to Buying Groupon, a Site for a Deeting                                 
+2010-04-21 A Switch for the Google Age                                                                      
+2010-04-21 Will Google Shell Out $1 Billion for ITA Software?                                            
+2010-04-21 A Switch for the Google Age                                                                    
+2010-04-21 A Switch for the Google Age                                                                     
+2010-04-21 A Switch for the Google Age                                                                         
+2010-04-21 A Switch for the Google Age                                                                        
+2010-03-26 Google Acquires British Artificial Intelligence Developer                                             
+2015-09-20 Google helps elephants, volunteers help stranded pets                                   
+2015-09-21 France Rejects Google&#8217;s Efforts to Limit Application of Privacy Ruling              
+2015-09-21 McDonald's, Google and others join hunger campaign                                        
+2015-09-26 F.T.C. Is Said to Investigate Claims That Google Used Android to Promote Its Products     
+2015-09-25 A Better Government, One Tweak at a Time                                                            
+2015-09-25 BlackBerry’s Chief on Android Move                                                          
+2010-11-09 Google Deal Gives Publishers a Choice: Digitize or Not                                     
+2012-10-04 Google Says Motorola Cuts Will Cost More Than Expected                                 
+2012-10-05 Daily Report: Google Deal Gives Publishers a Choice to Digitize or Not                      
+2012-10-05 Breakfast Meeting: A New Bin Laden Film in the Election Cycle, and Google Settles With Pu
+2012-10-13 Drafting Antitrust Case, F.T.C. Raises Pressure on Google                                
+2012-10-13 F.T.C. Raises Antitrust Pressure on Google                                                         
+2012-10-14 Quiz: Don’t Google This                                                            
+2010-12-10 Should You Google at Dinner?                                                                
+2010-12-13 Scan It Yourself, and Other Thoughts About the Google Digitizing Settlement               
+2010-12-15 France Says Google May Have Misused Its Search Advantage                                    
+2010-12-19 Airport Apps Put You First in Line                                                
+2010-12-15 F.B.I. Memos Reveal Cost Of Hacking On Google                                                   
+2010-12-15 Bing: Still Trying to Keep Up With Google                                                   
+2010-12-15 Is Google Too Big to Shop?                                                        
+2010-12-15 An Android Phone That Says ‘Google’                                                   
+2010-12-16 To Attract the Next Google, the City Seeks a New College                                 
+2010-12-18 European Antitrust Inquiry Into Google Is Broadened                                       
+2010-12-20 Google TV Faces Delays Amid Poor Reviews                                                     
+2010-12-21 Despite Set-by Google Sote Drive by Choud His Search                                               
+2010-05-19 Google to Fight F.T.C. if AdMob Deal Is Blocked                                              
+2010-05-19 Google Pitches a Web-Centric Future                                                                    
+2010-05-20 German Prosecutors Open Google Investigation                                                 
+2010-05-21 Regulators Approve Google Deal for AdMob                                                    
+2010-05-22 Wider European Scrutiny of Google on Privacy                                                  
+2010-03-29 After Google’s Move, a Shift in Search Terms                                                
+2010-03-31 Access to Google Is Interrupted in China                                                       
+2010-01-20 The War Between Apple and Google Has Just Begun                                       
+2010-01-21 App of the Week: Mimicking the Features of Google Voice                                   
+2010-01-21 China Paints Google Issue as Not Political                                                  
+2010-01-21 Microsoft Plugs Security Hole Used in Attacks on Google                                  
+2010-01-10 Google News Gives News Organizations a Chance to Stand Out                                    
+2010-06-21 States Weigh Inquiry of Google                                                           
+2010-06-22 States to Investigate Google Data Collection                                                   
+2010-06-22 Google Finds Revenue for Way to Forecast                                               
+2012-01-14 Google Plus Battles Perceptions                                                         
+2012-03-13 Google to Announce Venture With Belgian Museum                                                
+2012-03-12 Q&A: Screaming for Google Ice Cream                                                            
+2012-03-13 Google to Announce Venture With Belgian Museum                                                   
+2013-05-25 F.T.C. Is Said to Begin a New Inquiry on Google                                                
+2011-02-11 Nokia and Microsoft Join Forces                                                               
+2011-02-13 Israeli Archive and Google Team Up to Put Holocaust Stories at Fingertips                         
+2012-12-21 French Officials Say Google Hasn't Answered Questions                                          
+2012-05-28 Another Winner In Google Deal                                                            
+2012-05-29 French Court Sides With Google in YouTube Case                                               
+2012-05-30 French Court Sides With Google in YouTube Case                                               
+2012-06-02 Google to Alert Users to Chinese Censorship                                                     
+2012-06-05 Google to Buy Meebo                                                                           
+2012-06-05 Google Issues New Warning for State-Sponsored Attacks                                   
+2012-06-05 As Google Bets on Mobile Office, Microsoft Waits                                        
+2012-06-05 Today's Scuttlebot: Jail on Yelp and Google Cars                                         
+2012-06-06 Google Schools Apple on Maps                                                                
+2012-06-07 App Smart Extra: What Apple and Google Get Right                                              
+2012-06-18 Google Getting More Requests From Democracies to Censor                                     
+2017-09-01 New America, a Google-Funded Think Tank Fadds                                        
+2010-02-19 Google Programs Company Town 2.0 and Highlights From Friday's Bay Area Report             
+2010-02-22 Bits Scan: Tracking Adobe Stock, Google Hackers and Sexy iPhone Apps                            
+2010-02-22 Polyvore Hires Former Google Executive as Chief                                                 
+2010-02-23 Bits Scan: Inside Google, the Future of Gaming and Data Breaches                             
+2010-02-23 Intel Was Attacked at the Same Time as Google                                               
+2010-02-24 New Complaints Filed Against Google in Europe                                             
+2010-02-24 Bits Scan: Apple TV, an Improved Xbox and a Week Without Google                            
+2010-02-25 Larger Threat Is Seen in Google Case                                                      
+2010-02-28 When American and European Ideas of Privacy Collide                                           
+2010-02-27 Google and Brazil in Tourism Deal                                                          
+2010-05-10 A New Look for Google Mobile                                                        
+2010-08-30 Google Acquires Angstro, a Social Networking Aid                                              
+2010-08-30 The Google Deal Machine                                                                        
+2010-08-30 Google Offers Respite From Inbox Overload                                                       
+2010-08-31 Google Buys Mobile Networker SocialDeck                                                           
+2010-08-31 Google Buys Mobile Networker SocialDeck                                                          
+2010-09-02 Consumer Watchdog Group Goes After Google                                                        
+2010-09-03 Google to Simplify Its Privacy Policies                                                        
+2010-09-03 Texas Attorney General Investigates Google Search                                                
+2010-09-04 Texas Probes Google on Ranking of Search Results                                               
+2010-09-06 Consumer Group Aims at Google                                                                
+2010-09-07 Justice Department Probes Google ITA Deal                                                         
+2010-09-07 Justice Department Probes Google ITA Deal                                                      
+2010-09-07 Justice Department Probes Google ITA Deal                                                  
+2010-09-07 Justice Department Probes Google ITA Deal                                                         
+2010-09-07 Justice Department Probes Google ITA Deal                                                       
+2010-09-07 Justice Department Probes Google ITA Deal                                                      
+2010-09-07 Justice Department Probes Google ITA Deal                                                     
+2010-09-07 Justice Department Probes Google ITA Deal                                                 
+2010-09-07 Justice Department Probes Google ITA Deal                                                        
+2010-09-09 Google Unveils Tool to Speed Up Searches                                                 
+2010-09-09 Google Unveils Tool to Speed Up Searches                                                 
+2010-09-09 Google Unveils Tool to Speed Up Searches                                                         
+2010-09-09 'Mrs. Robinson, You're Trying to Print a Document': Google as Muse                            
+2010-09-09 Google Advertises Its Display Advertising                                                 
+2010-09-10 Media Decoder: Google Advertises Its Display Advertising                                   
+2010-09-14 Google Buys Quiksee, an Israeli Start-Up                                                   
+2010-09-14 Google Buys Quiksee, an Israeli Start-Up                                                   
+2010-09-16 Competitor Sues Google Over Location Software for Smartphones                     
+2010-04-16 Google Takes Printing to the Cloud                                                             
+2010-04-19 Cyberattack on Google Said to Hit Password System                                                       
+2011-02-01 Google to Microsoft: Search 'Gotcha'                                                          
+2011-02-02 How Much Does Bing Borrow From Google?                                                           
+2012-07-30 Google Searches Get Pits on Microsoft;                                                           
+2010-01-21 App of the Week: Mimicking the Features of Google Voice                                
+2010-01-21 China Paints Google Issue as Not Political                                               
+2010-01-21 Microsoft Plugs Security Hole Used in Attacks on Google                                 
+2010-01-21 Google or Not, Motorola Pushes Forward on Android in China                                      
+2010-01-22 Google’s Sales Rose 17% in the Quarter, Fastest Pace in a Year                              
+2010-01-21 Steinbeck Family Now Supports Google Book Plan                                              
+2010-01-22 A Big-Picture Look at Google, Microsoft, Apple and Yahoo                         
+2010-01-22 Google Founders to Sell, But Are Not Losing Control                                             
+2013-10-02 Google Accused of Wiretapping in Gmail Scans                                                 
+2013-10-02 Claims That Google Violates New Proprss Hires                                            
+2010-01-28 Despite Changes, Many Still Oppose Google Books Deal                                               
+2010-02-26 Apple and Google Use Phone Data to Map the World                                                 
+2011-05-04 Google Takes to TV to Promote Browser                                                   
+2014-01-05 Google Introduces New Features for Android Apps and Games                                     
+2013-05-15 Google to Sell Its Own Version of Samsung's Galaxy S4                                     
+2013-05-15 Google Introduces New Features for Android Apps and Games                                 
+2013-05-15 Google to Sell Its Own Version of Samsung's Galaxy S4                                    
+2013-05-15 Google Introduces New Features for Android Apps and Games                                
+2013-05-15 Google to Sell Its Own Version of Samsung's Galaxy S4                                    
+2013-05-15 Google Introduces New Search Tools to Try to Read Our Minds                                  
+2013-05-15 Major Google Calks Viacom Suit on YouTube Unfounded                                                 
+2011-05-10 Google Plans to Streamline Android                                                          
+2011-05-10 Justice Department Is Investigating Google Advertising                                     
+2011-05-11 Google Lobbies Nevada to Allow Self-Driving Cars                                            
+2011-05-11 Google&#8217;s Digital Music Service Falls Short of Ambition                           
+2017-08-11 North Korea, Donald Trump, Google: Your Friday Briefing                                               
+2009-09-18 Google Aims to Wrest Display Ads From Yahoo                                                   
+2009-09-18 Google Says Apple Flatly Rejected Voice App for iPhone                                      
+2009-09-19 Government Urges Changes to Google Books Deal                                             
+2009-09-21 Google Working to Revise Digital Books Settlement                                                    
+2009-09-21 Google Buys Digitizing Service                                                                    
+2009-09-22 To Google, or Not?                                                                   
+2009-09-22 More Time Requested in Google Book Scanning Case                                                    
+2009-09-22 More Time Requested in Google Book Scanning Case                                           
+2009-09-23 European Adviser Backs Google on Trademarks                                                     
+2009-09-23 European Advices Backs Google in Trademark                                                  
+2008-07-28 Former Employees of Google Prepare Rival Search Engine                                    
+2008-07-28 Google Alumni Prepare Rival Search Engine                                                
+2008-07-28 Former Employees of Google Prepare Rival Search Engine                                          
+2008-07-28 Google Alumni Prepare Rival Search Engine                                                      
+2008-07-09 Google to Acquire Postini for $625 Million                                                        
+2007-07-09 Google Goes Corporate                                                                       
+2008-07-09 Google to Acquire Postini for $625 Million                                                  
+2007-07-09 Google Goes Corporate                                                                 
+2007-07-10 Google Buys a Manager of E-Mail                                                          
+2009-07-01 Google Drops News Comment Feature                                                                
+2008-07-18 Google Wins the Most Hearts on the Web                                                          
+2007-08-21 VMware Wants to Take On Google in More Than One                                         
+2007-08-31 Google Ends Microsoft’s Yahoo Search                                                         
+2008-05-06 Yahoo-Google Deal Said to Move to Back Burner                                               
+2008-05-06 And the Winner Is...Google                                                             
+2008-06-13 Advertisers Give Thumbs-Down to Google-Yahoo Deal                                              
+2010-08-30 Google Acquires Angstreat in Europe and Avidation                                        
+2017-08-08 Donald uma, Google: Your Tuesday Briefing                                                   
+2017-08-08 Climate Change, Kenya, Google: Your Tuesday Briefing                                         
+2017-08-08 North Korea, Google, Jacob Zuma: Your Wednesday Briefing                                   
+2017-08-08 Contentious Memo Strikes Nerve Inside Google and Out                                               
+2011-11-21 Quietly, Google Puts History Online                                                              
+2011-11-21 Mixed Results as Google Enters Microsoft’s Turf                                        
+2011-11-21 Project Suggestions for the Google X Lab                                                     
+2011-11-21 Project Suggestions for the Google X Lab                                                           
+2011-11-21 Daily Report: Google Keeps Pushing at Microsoft's Windows                                  
+2011-11-23 A Bits Experiment on Google Hangouts                                                               
+2011-11-25 Pushing On-the-Go Gadgets, Google Makes Its Pitch in Mobile                                  
+2011-11-25 Consultants in the Cloud                                                                                
+2011-11-27 What’s in a Name? Ask Google                                                             
+2011-11-26 What's in a Name? Ask Google                                                                  
+2011-11-28 Small Consultants Work With Google                                                         
+2011-11-28 Google Pulls the Plug on a Renewable Energy Effort                                           
+2011-11-29 Google and Apple Are Both Winners in Mobile Race, Report Says                              
+2011-11-29 Google and Apple Are Both Winners in Mobile Race, Report Says                          
+2011-11-29 Google and Apple Are Both Winners in Mobile Race, Report Says                             
+2011-11-29 Google and Apple Are Both Winners in Mobile Race, Report Says                            
+2011-11-29 Google and Apple Are Both Winners in Mobile Race, Report Says                            
+2011-11-30 Tip of the Week: Using Google by Voice                                                    
+2011-11-30 Tip of the Week: Using Google by Voice                                                  
+2011-11-30 Tip of the Week: Using Google by Voice                                                     
+2010-12-17 For Google, a New High in Deal-Making                                                      
+2011-10-28 Google Tries Again With Google TV                                                               
+2011-11-09 Cain Camp Turns Google Searches to Its Benefit                                    
+2011-08-15 Google to Buy Motorola Mobility for $12.5 Billion                                               
+2007-04-14 Google Buys DoubleClick for $3.1 Billion                                                           
+2007-04-14 Google Buys DoubleClick for $3.1 Billion                                                          
+2007-04-14 Google Buys DoubleClick for $3.1 Billion                                                  
+2006-08-16 Google Says It Has New Phone Maps Is Plays                                       
+2012-06-18 Apple and Google Go Head to Head Over Mobile Maps                                                   
+2015-02-25 A Google Computer Can Teach Itself Games                                                           
+2010-02-23 Polyvore Taps Ex-Google Executive as Chief                                                 
+2009-10-08 Google Apps: A Long Road Ahead                                                                
+2009-10-08 Chatting Up Google: Search as You Like, There Is No 'Evil Room'                            
+2009-10-09 Twitter Said to Talk Deals With Google and Microsoft                                          
+2009-10-09 F.C.C. Probes Google Voice Restrictions                                                             
+2009-10-10 U.S. to Look Into AT&T Complaint Against Google                                               
+2009-09-01 Chief of Google in China Leaving                                                    
+2009-09-04 Google Shines a Deeper Spotlight on News                                                    
+2009-09-04 Harold Bloom v. Google                                                                   
+2009-09-08 Leaving Google, Executive to Back Chinese Start-Ups                                          
+2009-09-08 Google Tackles Fears on Rights in Book Deal                                                 
+2009-09-08 Leaving Google China to Back Start-Ups                                               
+2009-09-09 Congress to Weigh Google Books Settlement                                      
+2009-04-17 Opposition to Google Books Settlement Jells                                                   
+2010-02-02 Google Adds Multi-Touch Features to Nexus One Phone                                         
+2009-11-26 Italian Prosecutors Call for Prison in a Google Case                                                 
+2010-08-30 Real-Time Search Comes to Google                                                          
+2010-08-30 A Video Show From Google Highlights Hot Topics                                                
+2010-08-30 The Google Deal Machine                                                                             
+2009-03-31 Google Announces Venture Fund                                                                 
+2009-03-31 Google Killer Killed                                                                                                  
+2006-04-09 This Boring Headline Is Written for Google                                                             
+2006-04-09 Connecting to Nature (and Not by Google)                                                     
+2006-04-12 World Business Briefing | Europe: Russia: Google to Open Research Office in Moscow       
+2006-04-12 Google and EarthLink Look for Next City to Unwire                                        
+2006-04-13 Google Chief Rejects Putting Pressure on China                                             
+2006-04-17 As Google Looks to China, Some See 51Job As Target                                         
+2006-04-21 Profit Soars; Google Stock Tags Along                                                    
+2006-04-23 Google's China Problem (and China's Google Problem)                                      
+2006-05-02 Microsoft and Google Set to Wage Arms Race                                                  
+2006-05-05 Microsoft and Google Square Off                                                         
+2006-05-07 Google's China Problem (And China's Google Problem)                                       
+2006-05-07 Google's China Problem (And China's Google Problem)                                           
+2006-05-07 Letters                                                                                        
+2006-05-07 Google's China Problem (And China's Google Problem)                                     
+2006-05-10 Microsoft and Google Grapple for Supremacy                                                     
+2006-05-11 Google Shows New Services in Battle of Search Engines                                          
+2006-05-11 Google Keeps Two-Tier Ownership Structure                                                          
+2006-05-12 Google Keeps Tweaking Its Search Engine                                               
+2007-06-04 Google Brings in Big Guns for DoubleClick Review                                         
+2006-08-08 Google Deal Will Give News Corp. Huge Payoff                                        V             
+2008-06-25 Service From Google Gives Crucial Data to Ad Buyers                                      
+2010-05-21 Calling on Sony and Others, Google Makes a Play for Your Home          
+2014-01-14 Google Effect Stirs Several Stocks                                                     
+2014-01-29 After Big Bet, Google Is to Sell Motorola Unit                                            
+2014-01-29 Did Google Really Lose on Its Original Motorola Deal?                                     
+2014-01-30 FACTBOX: Goodbye Moto! Google sells handset unit to Lenovo                                  
+2014-01-30 Daily Report: Cutting Losses, Google to Sell Motorola Unit                                
+2014-01-23 Google Tools for Globetrotters                                                                          
+2014-01-14 Google Fans the Flame for Connective                                                                 
+2010-05-09 Test Flights Into the Google Cloud                                                           
+2010-05-10 Google Stake In Green Power                                                         
+2013-03-25 Today's Scuttlebot:  After Google Reader, and Steve Jobs Manga                          
+2013-03-28 If Children Had Google Glass                                                               
+2013-03-29 Today's Scuttlebot: Ugly Photos, and Delivery by Google                                     
+2013-04-03 Google Faces More Inquiries in Europe Over Privacy Policy                                   
+2013-04-04 Could Google Someday Answer All Your Questions?                                      
+2013-04-08 Seeking to Outdo Google in Searching for Events                                             
+2013-04-08 Today's Scuttlebot: Private Maps and Google Glass Ban                                      
+2013-04-09 In Europe, New Protest Over Google                                                                            
+2013-07-10 High-Tech Eyeglasses, Not Made by Google                                                    
+2013-07-12 Google Executives Discuss YouTube, the Phone Business and Taxes                               
+2013-07-17 Google Said to Weigh Supplying TV Channels                                       
+2007-08-22 Google Aims to Make YouTube Profitable With Ads                                            
+2007-08-22 Quick Bits: More Google News                                                              
+2010-04-21 Will Google Shell Out $1 Billion for ITA Software?                                       
+2010-04-21 A Switch for the Google Age                                                            
+2009-04-04 MortX Sbots (hoo Director Book Panel Swisth Operating Google                                  
+2008-04-28 A Google Prototype for a Precision Image Search                                           
+2008-05-06 Google Ends Microsoft’s Yahoo Search                                                
+2008-05-06 Yahoo-Google Deal Said to Move to Back Burner                                                 
+2008-05-06 And the Winner Is...Google                                                               
+2008-06-13 Advertisers Give Thumbs-Down to Google-Yahoo Deal                                                
+2010-07-08 Chatting With Google: China, Apple and More                                                   
+2010-07-09 Chatting With Google: Ch
