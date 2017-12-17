@@ -1,0 +1,1 @@
+--data_dir data/apple/ --num_epochs 100 --learning_rate 0.01
